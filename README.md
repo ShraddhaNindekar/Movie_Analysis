@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Rating Analysis
 
 ## About the Project
@@ -25,3 +26,6 @@ and the highest-rated movie.
 
 ## Created By
 Snehal
+=======
+# Movie_Analysis
+>>>>>>> 1fc75d7c72e573869b384b072372b67f8994e1c3
