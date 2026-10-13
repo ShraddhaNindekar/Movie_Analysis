@@ -1,7 +1,7 @@
 # Movie Rating Analysis
 
-movies = ["Dangal", "3 Idiots", "Jawan", "Pathaan"]
-ratings = [9, 10, 8, 7]
+movies = ["Dangal", "3 Idiots", "Jawan", "Pathaan","Baghi"]
+ratings = [9, 10, 8, 7,5]
 
 print("MOVIE RATING ANALYSIS")
 print("---------------------")
@@ -17,4 +17,4 @@ print("Average Rating:", average)
 highest = ratings.index(max(ratings))
 
 print("Highest Rated Movie:", movies[highest])
-print("Highest Rating:", ratings[highest])
+print("Highest Rating:", ratings[highest]) 
