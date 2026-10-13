@@ -25,7 +25,7 @@ and the highest-rated movie.
    python analysis.py
 
 ## Created By
-Snehal
+Shraddha
 =======
 # Movie_Analysis
 >>>>>>> 1fc75d7c72e573869b384b072372b67f8994e1c3
