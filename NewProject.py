@@ -1,5 +1,5 @@
-# Movie Rating Analysis
 
+# Movie Rating Analysis 
 movies = ["Dangal", "3 Idiots", "Jawan", "Pathaan","Baghi"]
 ratings = [9, 10, 8, 7,5]
 
