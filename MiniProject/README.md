@@ -1,4 +1,4 @@
-Patient Management System Using Python – Project Details
+==================Patient Management System Using Python – Project Details======================
 1. Project Overview
 Project Name: Patient Management System
 Programming Language: Python
